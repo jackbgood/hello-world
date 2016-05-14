@@ -1,5 +1,5 @@
 # hello-world
-This is jack's first repository, which is a hello world thing.
+This is jack's first repository, which is a salute to the time honored tradition of hello world.
 
 
 Honolulu is nice this time of year. That's what they tell me anyway. But then, who are they to say.
